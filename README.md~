@@ -1,0 +1,17 @@
+# Fractalnet Event Predictions for Chihuahua Mexico
+
+### Directory Structure
+
+```
+Fractalnet
+├── movies : snapshost for prediction within out-of-sample period (Jan1-March2 2023)
+├── movies_future : Snapshots of predictions upto March 23, 2023
+├── Performance : performance.md for oos period
+├── fnet models : compressed models inferred (2020-2022)
+└── event_descriptions : 
+```
+
+## License
+
+LICENSE.md
+
