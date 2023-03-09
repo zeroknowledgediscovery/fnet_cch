@@ -11,6 +11,9 @@ performance folder.
 # Directory Structure
 
 ```
+├── data
+│   ├── CCH.csv
+│   ├── README.md
 ├── LICENSE
 ├── LICENSE.md
 ├── models
